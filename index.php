@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <head>
 	<title>Basketball Stat Tracker</title>
 	<link rel="icon"
